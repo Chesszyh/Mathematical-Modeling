@@ -1,0 +1,401 @@
+ImageName,ColorCast,LowIllumination,Blur,ClassificationDecision
+image_001.png,1,0,0,Color Cast(MEDIUM:0.57)
+image_002.png,0,0,1,Blur(MEDIUM:0.59)
+image_003.png,1,1,0,Color Cast(MEDIUM:0.52);Low Light(LOW:0.48)
+image_004.png,0,1,1,Low Light(HIGH:0.75);Blur(HIGH:0.91)
+image_005.png,1,0,1,Color Cast(MEDIUM:0.55);Blur(MEDIUM:0.67)
+image_006.png,1,0,1,Color Cast(MEDIUM:0.64);Blur(LOW:0.42)
+image_007.png,1,1,1,Color Cast(MEDIUM:0.68);Low Light(LOW:0.47);Blur(HIGH:0.87)
+image_008.png,1,1,1,Color Cast(MEDIUM:0.69);Low Light(LOW:0.44);Blur(MEDIUM:0.50)
+image_009.png,1,1,1,Color Cast(MEDIUM:0.60);Low Light(LOW:0.45);Blur(HIGH:0.78)
+image_010.png,0,0,1,Blur(HIGH:0.72)
+image_011.png,1,1,1,Color Cast(MEDIUM:0.58);Low Light(LOW:0.48);Blur(HIGH:0.78)
+image_012.png,1,1,0,Color Cast(HIGH:0.72);Low Light(MEDIUM:0.52)
+image_013.png,1,0,0,Color Cast(LOW:0.41)
+image_014.png,0,0,0,Normal
+image_015.png,0,0,0,Normal
+image_016.png,1,1,0,Color Cast(MEDIUM:0.57);Low Light(LOW:0.44)
+image_017.png,0,0,0,Normal
+image_018.png,0,1,1,Low Light(HIGH:0.72);Blur(LOW:0.42)
+image_019.png,0,1,1,Low Light(HIGH:0.82);Blur(HIGH:0.99)
+image_020.png,0,1,1,Low Light(HIGH:0.85);Blur(HIGH:0.92)
+image_021.png,0,1,1,Low Light(HIGH:0.75);Blur(HIGH:0.79)
+image_022.png,0,0,0,Normal
+image_023.png,0,1,0,Low Light(HIGH:0.75)
+image_024.png,0,1,1,Low Light(MEDIUM:0.61);Blur(HIGH:0.78)
+image_025.png,0,1,1,Low Light(HIGH:0.80);Blur(HIGH:0.94)
+image_026.png,0,0,0,Normal
+image_027.png,0,1,1,Low Light(MEDIUM:0.53);Blur(HIGH:0.92)
+image_028.png,0,1,1,Low Light(LOW:0.50);Blur(LOW:0.42)
+image_029.png,0,1,0,Low Light(MEDIUM:0.52)
+image_030.png,0,0,0,Normal
+image_031.png,0,0,0,Normal
+image_032.png,0,1,1,Low Light(MEDIUM:0.53);Blur(HIGH:0.81)
+image_033.png,1,1,1,Color Cast(MEDIUM:0.58);Low Light(LOW:0.49);Blur(LOW:0.49)
+image_034.png,0,0,0,Normal
+image_035.png,0,0,0,Normal
+image_036.png,0,0,0,Normal
+image_037.png,1,0,0,Color Cast(LOW:0.44)
+image_038.png,0,0,0,Normal
+image_039.png,1,0,1,Color Cast(MEDIUM:0.63);Blur(HIGH:0.87)
+image_040.png,1,0,0,Color Cast(LOW:0.50)
+image_041.png,1,1,0,Color Cast(LOW:0.42);Low Light(LOW:0.48)
+image_042.png,0,0,0,Normal
+image_043.png,1,0,1,Color Cast(MEDIUM:0.65);Blur(HIGH:0.90)
+image_044.png,1,0,0,Color Cast(MEDIUM:0.56)
+image_045.png,0,0,0,Normal
+image_046.png,0,0,0,Normal
+image_047.png,1,0,0,Color Cast(MEDIUM:0.59)
+image_048.png,0,0,0,Normal
+image_049.png,1,0,0,Color Cast(MEDIUM:0.56)
+image_050.png,1,0,1,Color Cast(MEDIUM:0.54);Blur(MEDIUM:0.54)
+image_051.png,0,0,1,Blur(MEDIUM:0.65)
+image_052.png,0,0,1,Blur(MEDIUM:0.58)
+image_053.png,0,0,1,Blur(HIGH:0.86)
+image_054.png,0,0,1,Blur(HIGH:0.85)
+image_055.png,1,1,1,Color Cast(LOW:0.46);Low Light(LOW:0.46);Blur(HIGH:0.87)
+image_056.png,1,1,1,Color Cast(LOW:0.42);Low Light(LOW:0.43);Blur(HIGH:0.88)
+image_057.png,0,0,0,Normal
+image_058.png,0,0,0,Normal
+image_059.png,0,0,1,Blur(HIGH:0.91)
+image_060.png,0,0,0,Normal
+image_061.png,1,0,0,Color Cast(MEDIUM:0.52)
+image_062.png,0,0,0,Normal
+image_063.png,1,0,1,Color Cast(LOW:0.48);Blur(HIGH:0.81)
+image_064.png,0,1,0,Low Light(LOW:0.44)
+image_065.png,1,1,1,Color Cast(MEDIUM:0.67);Low Light(LOW:0.46);Blur(LOW:0.50)
+image_066.png,1,0,0,Color Cast(LOW:0.42)
+image_067.png,0,0,0,Normal
+image_068.png,0,0,0,Normal
+image_069.png,0,0,1,Blur(HIGH:0.80)
+image_070.png,0,0,0,Normal
+image_071.png,1,1,0,Color Cast(MEDIUM:0.64);Low Light(LOW:0.42)
+image_072.png,0,0,0,Normal
+image_073.png,1,0,0,Color Cast(LOW:0.42)
+image_074.png,0,0,0,Normal
+image_075.png,0,1,0,Low Light(LOW:0.48)
+image_076.png,1,0,0,Color Cast(MEDIUM:0.67)
+image_077.png,0,0,0,Normal
+image_078.png,1,1,0,Color Cast(LOW:0.46);Low Light(LOW:0.47)
+image_079.png,0,0,0,Normal
+image_080.png,0,0,0,Normal
+image_081.png,1,1,0,Color Cast(MEDIUM:0.58);Low Light(LOW:0.49)
+image_082.png,1,1,1,Color Cast(MEDIUM:0.63);Low Light(LOW:0.41);Blur(MEDIUM:0.55)
+image_083.png,0,0,1,Blur(MEDIUM:0.67)
+image_084.png,0,0,0,Normal
+image_085.png,0,0,0,Normal
+image_086.png,0,0,0,Normal
+image_087.png,0,0,0,Normal
+image_088.png,1,1,0,Color Cast(MEDIUM:0.59);Low Light(LOW:0.50)
+image_089.png,1,1,0,Color Cast(MEDIUM:0.57);Low Light(LOW:0.49)
+image_090.png,0,0,0,Normal
+image_091.png,0,0,0,Normal
+image_092.png,1,1,0,Color Cast(MEDIUM:0.55);Low Light(LOW:0.49)
+image_093.png,0,0,0,Normal
+image_094.png,0,0,1,Blur(HIGH:0.81)
+image_095.png,0,0,0,Normal
+image_096.png,0,0,0,Normal
+image_097.png,0,0,0,Normal
+image_098.png,0,0,1,Blur(MEDIUM:0.55)
+image_099.png,0,0,0,Normal
+image_100.png,0,0,1,Blur(HIGH:0.90)
+image_101.png,0,0,0,Normal
+image_102.png,0,0,0,Normal
+image_103.png,1,0,1,Color Cast(MEDIUM:0.65);Blur(HIGH:0.92)
+image_104.png,1,1,0,Color Cast(LOW:0.46);Low Light(MEDIUM:0.52)
+image_105.png,0,0,1,Blur(HIGH:0.76)
+image_106.png,0,0,0,Normal
+image_107.png,0,0,0,Normal
+image_108.png,1,1,1,Color Cast(MEDIUM:0.59);Low Light(MEDIUM:0.53);Blur(MEDIUM:0.63)
+image_109.png,0,0,1,Blur(HIGH:0.84)
+image_110.png,1,0,0,Color Cast(LOW:0.46)
+image_111.png,0,0,1,Blur(HIGH:0.78)
+image_112.png,1,1,0,Color Cast(MEDIUM:0.52);Low Light(MEDIUM:0.52)
+image_113.png,1,0,0,Color Cast(MEDIUM:0.54)
+image_114.png,0,1,0,Low Light(MEDIUM:0.59)
+image_115.png,0,1,0,Low Light(HIGH:0.79)
+image_116.png,1,1,0,Color Cast(LOW:0.47);Low Light(LOW:0.44)
+image_117.png,1,1,0,Color Cast(MEDIUM:0.55);Low Light(LOW:0.49)
+image_118.png,1,1,0,Color Cast(LOW:0.45);Low Light(LOW:0.42)
+image_119.png,1,0,0,Color Cast(MEDIUM:0.57)
+image_120.png,1,1,0,Color Cast(HIGH:0.71);Low Light(MEDIUM:0.64)
+image_121.png,1,1,0,Color Cast(MEDIUM:0.54);Low Light(MEDIUM:0.56)
+image_122.png,1,1,0,Color Cast(MEDIUM:0.59);Low Light(MEDIUM:0.54)
+image_123.png,1,1,0,Color Cast(MEDIUM:0.52);Low Light(MEDIUM:0.62)
+image_124.png,0,1,0,Low Light(MEDIUM:0.62)
+image_125.png,1,1,0,Color Cast(MEDIUM:0.60);Low Light(MEDIUM:0.53)
+image_126.png,1,1,0,Color Cast(MEDIUM:0.59);Low Light(LOW:0.45)
+image_127.png,1,1,0,Color Cast(LOW:0.46);Low Light(LOW:0.42)
+image_128.png,1,1,1,Color Cast(MEDIUM:0.69);Low Light(LOW:0.47);Blur(LOW:0.46)
+image_129.png,1,1,0,Color Cast(HIGH:0.75);Low Light(MEDIUM:0.57)
+image_130.png,1,1,0,Color Cast(MEDIUM:0.64);Low Light(MEDIUM:0.52)
+image_131.png,1,1,0,Color Cast(HIGH:0.72);Low Light(LOW:0.49)
+image_132.png,1,1,0,Color Cast(HIGH:0.74);Low Light(HIGH:0.72)
+image_133.png,1,1,0,Color Cast(MEDIUM:0.70);Low Light(MEDIUM:0.58)
+image_134.png,0,1,0,Low Light(MEDIUM:0.54)
+image_135.png,1,1,1,Color Cast(LOW:0.41);Low Light(MEDIUM:0.59);Blur(HIGH:0.90)
+image_136.png,0,0,1,Blur(HIGH:0.89)
+image_137.png,1,1,0,Color Cast(LOW:0.44);Low Light(LOW:0.47)
+image_138.png,1,0,1,Color Cast(MEDIUM:0.66);Blur(HIGH:0.74)
+image_139.png,1,1,1,Color Cast(MEDIUM:0.65);Low Light(MEDIUM:0.64);Blur(MEDIUM:0.51)
+image_140.png,0,0,0,Normal
+image_141.png,1,1,0,Color Cast(MEDIUM:0.54);Low Light(HIGH:0.77)
+image_142.png,1,0,1,Color Cast(MEDIUM:0.60);Blur(HIGH:0.90)
+image_143.png,1,1,0,Color Cast(LOW:0.46);Low Light(HIGH:0.70)
+image_144.png,1,1,0,Color Cast(MEDIUM:0.59);Low Light(LOW:0.43)
+image_145.png,0,0,0,Normal
+image_146.png,1,1,1,Color Cast(MEDIUM:0.56);Low Light(MEDIUM:0.62);Blur(MEDIUM:0.53)
+image_147.png,1,0,1,Color Cast(LOW:0.50);Blur(HIGH:0.90)
+image_148.png,1,0,1,Color Cast(MEDIUM:0.53);Blur(MEDIUM:0.63)
+image_149.png,1,0,0,Color Cast(LOW:0.46)
+image_150.png,1,0,0,Color Cast(LOW:0.41)
+image_151.png,0,0,1,Blur(MEDIUM:0.67)
+image_152.png,1,1,1,Color Cast(LOW:0.41);Low Light(HIGH:0.78);Blur(HIGH:0.97)
+image_153.png,0,1,1,Low Light(HIGH:0.71);Blur(HIGH:0.75)
+image_154.png,1,0,1,Color Cast(LOW:0.48);Blur(HIGH:0.88)
+image_155.png,1,1,0,Color Cast(MEDIUM:0.62);Low Light(MEDIUM:0.57)
+image_156.png,0,0,1,Blur(MEDIUM:0.67)
+image_157.png,0,0,1,Blur(LOW:0.42)
+image_158.png,0,1,0,Low Light(LOW:0.40)
+image_159.png,1,0,0,Color Cast(LOW:0.49)
+image_160.png,0,0,1,Blur(HIGH:0.94)
+image_161.png,1,0,1,Color Cast(MEDIUM:0.50);Blur(HIGH:0.89)
+image_162.png,0,0,1,Blur(HIGH:0.85)
+image_163.png,1,1,0,Color Cast(MEDIUM:0.56);Low Light(MEDIUM:0.64)
+image_164.png,1,1,0,Color Cast(MEDIUM:0.54);Low Light(MEDIUM:0.58)
+image_165.png,0,1,0,Low Light(LOW:0.40)
+image_166.png,1,1,0,Color Cast(LOW:0.44);Low Light(LOW:0.48)
+image_167.png,0,0,0,Normal
+image_168.png,1,1,0,Color Cast(LOW:0.40);Low Light(MEDIUM:0.51)
+image_169.png,1,1,0,Color Cast(LOW:0.44);Low Light(MEDIUM:0.59)
+image_170.png,0,0,1,Blur(LOW:0.45)
+image_171.png,1,0,0,Color Cast(LOW:0.47)
+image_172.png,0,1,0,Low Light(LOW:0.43)
+image_173.png,1,1,0,Color Cast(LOW:0.42);Low Light(LOW:0.43)
+image_174.png,1,1,0,Color Cast(MEDIUM:0.53);Low Light(LOW:0.44)
+image_175.png,1,1,1,Color Cast(LOW:0.50);Low Light(LOW:0.47);Blur(LOW:0.49)
+image_176.png,1,1,0,Color Cast(MEDIUM:0.52);Low Light(LOW:0.48)
+image_177.png,0,1,0,Low Light(HIGH:0.70)
+image_178.png,0,1,1,Low Light(MEDIUM:0.65);Blur(HIGH:0.71)
+image_179.png,0,1,1,Low Light(MEDIUM:0.66);Blur(MEDIUM:0.66)
+image_180.png,0,0,1,Blur(MEDIUM:0.58)
+image_181.png,0,0,1,Blur(HIGH:0.98)
+image_182.png,0,0,1,Blur(HIGH:0.99)
+image_183.png,1,1,1,Color Cast(MEDIUM:0.58);Low Light(LOW:0.44);Blur(HIGH:0.86)
+image_184.png,0,0,1,Blur(MEDIUM:0.60)
+image_185.png,0,0,1,Blur(MEDIUM:0.61)
+image_186.png,0,0,1,Blur(HIGH:0.97)
+image_187.png,1,0,1,Color Cast(MEDIUM:0.63);Blur(HIGH:0.96)
+image_188.png,0,0,1,Blur(MEDIUM:0.69)
+image_189.png,1,1,1,Color Cast(MEDIUM:0.63);Low Light(LOW:0.44);Blur(HIGH:0.95)
+image_190.png,1,1,1,Color Cast(LOW:0.49);Low Light(LOW:0.42);Blur(MEDIUM:0.58)
+image_191.png,1,0,1,Color Cast(MEDIUM:0.51);Blur(HIGH:0.91)
+image_192.png,1,0,0,Color Cast(LOW:0.40)
+image_193.png,1,1,1,Color Cast(MEDIUM:0.54);Low Light(LOW:0.44);Blur(HIGH:0.95)
+image_194.png,0,0,1,Blur(HIGH:0.97)
+image_195.png,0,0,1,Blur(HIGH:0.84)
+image_196.png,0,0,1,Blur(HIGH:0.98)
+image_197.png,0,0,1,Blur(HIGH:0.71)
+image_198.png,0,0,0,Normal
+image_199.png,0,0,0,Normal
+image_200.png,0,0,0,Normal
+image_201.png,0,0,0,Normal
+image_202.png,0,0,1,Blur(HIGH:0.90)
+image_203.png,0,0,0,Normal
+image_204.png,1,0,1,Color Cast(LOW:0.41);Blur(HIGH:0.89)
+image_205.png,0,0,1,Blur(HIGH:0.89)
+image_206.png,0,0,1,Blur(HIGH:0.75)
+image_207.png,0,0,0,Normal
+image_208.png,0,0,0,Normal
+image_209.png,0,0,0,Normal
+image_210.png,0,0,1,Blur(MEDIUM:0.60)
+image_211.png,0,0,1,Blur(LOW:0.49)
+image_212.png,0,0,1,Blur(HIGH:0.87)
+image_213.png,1,1,1,Color Cast(MEDIUM:0.56);Low Light(MEDIUM:0.64);Blur(HIGH:0.86)
+image_214.png,1,0,1,Color Cast(MEDIUM:0.56);Blur(HIGH:0.91)
+image_215.png,1,1,1,Color Cast(MEDIUM:0.61);Low Light(MEDIUM:0.58);Blur(HIGH:0.88)
+image_216.png,1,1,1,Color Cast(MEDIUM:0.56);Low Light(MEDIUM:0.53);Blur(MEDIUM:0.54)
+image_217.png,1,0,0,Color Cast(LOW:0.48)
+image_218.png,1,0,1,Color Cast(LOW:0.42);Blur(HIGH:0.79)
+image_219.png,1,0,1,Color Cast(MEDIUM:0.50);Blur(HIGH:0.84)
+image_220.png,1,0,0,Color Cast(MEDIUM:0.54)
+image_221.png,1,1,0,Color Cast(MEDIUM:0.50);Low Light(MEDIUM:0.56)
+image_222.png,1,1,0,Color Cast(MEDIUM:0.54);Low Light(MEDIUM:0.54)
+image_223.png,1,0,0,Color Cast(LOW:0.42)
+image_224.png,1,0,1,Color Cast(LOW:0.43);Blur(MEDIUM:0.55)
+image_225.png,1,0,1,Color Cast(MEDIUM:0.59);Blur(HIGH:0.78)
+image_226.png,1,0,0,Color Cast(LOW:0.48)
+image_227.png,1,1,0,Color Cast(HIGH:0.72);Low Light(MEDIUM:0.60)
+image_228.png,1,1,0,Color Cast(MEDIUM:0.56);Low Light(MEDIUM:0.52)
+image_229.png,1,0,1,Color Cast(MEDIUM:0.66);Blur(HIGH:0.73)
+image_230.png,1,0,0,Color Cast(MEDIUM:0.63)
+image_231.png,0,0,0,Normal
+image_232.png,0,1,0,Low Light(LOW:0.43)
+image_233.png,1,0,1,Color Cast(MEDIUM:0.68);Blur(HIGH:0.73)
+image_234.png,1,0,1,Color Cast(MEDIUM:0.66);Blur(HIGH:0.80)
+image_235.png,0,0,0,Normal
+image_236.png,1,0,1,Color Cast(MEDIUM:0.56);Blur(HIGH:0.97)
+image_237.png,0,1,1,Low Light(LOW:0.48);Blur(MEDIUM:0.61)
+image_238.png,0,0,1,Blur(HIGH:0.81)
+image_239.png,0,1,1,Low Light(LOW:0.48);Blur(HIGH:0.93)
+image_240.png,1,0,0,Color Cast(LOW:0.48)
+image_241.png,0,0,0,Normal
+image_242.png,1,1,0,Color Cast(MEDIUM:0.59);Low Light(MEDIUM:0.55)
+image_243.png,0,0,0,Normal
+image_244.png,0,0,0,Normal
+image_245.png,1,0,1,Color Cast(MEDIUM:0.52);Blur(MEDIUM:0.55)
+image_246.png,1,1,0,Color Cast(MEDIUM:0.50);Low Light(LOW:0.45)
+image_247.png,0,0,1,Blur(HIGH:0.86)
+image_248.png,1,0,1,Color Cast(MEDIUM:0.64);Blur(HIGH:0.75)
+image_249.png,1,1,0,Color Cast(LOW:0.49);Low Light(LOW:0.42)
+image_250.png,1,0,1,Color Cast(MEDIUM:0.59);Blur(LOW:0.42)
+image_251.png,1,0,0,Color Cast(MEDIUM:0.66)
+image_252.png,1,0,1,Color Cast(LOW:0.49);Blur(MEDIUM:0.59)
+image_253.png,0,1,0,Low Light(MEDIUM:0.58)
+image_254.png,0,0,0,Normal
+image_255.png,0,0,0,Normal
+image_256.png,1,0,1,Color Cast(LOW:0.42);Blur(HIGH:0.94)
+image_257.png,0,0,0,Normal
+image_258.png,1,0,1,Color Cast(MEDIUM:0.54);Blur(MEDIUM:0.62)
+image_259.png,0,0,1,Blur(HIGH:0.74)
+image_260.png,1,0,1,Color Cast(MEDIUM:0.51);Blur(HIGH:0.71)
+image_261.png,0,0,1,Blur(HIGH:0.95)
+image_262.png,0,0,1,Blur(HIGH:0.77)
+image_263.png,1,0,1,Color Cast(HIGH:0.83);Blur(HIGH:0.92)
+image_264.png,1,0,1,Color Cast(MEDIUM:0.66);Blur(HIGH:0.75)
+image_265.png,1,0,1,Color Cast(LOW:0.49);Blur(HIGH:0.83)
+image_266.png,0,0,0,Normal
+image_267.png,1,1,0,Color Cast(MEDIUM:0.52);Low Light(MEDIUM:0.55)
+image_268.png,0,0,0,Normal
+image_269.png,0,0,0,Normal
+image_270.png,0,0,0,Normal
+image_271.png,0,0,0,Normal
+image_272.png,1,1,0,Color Cast(MEDIUM:0.67);Low Light(MEDIUM:0.54)
+image_273.jpg,1,0,1,Color Cast(LOW:0.45);Blur(HIGH:0.86)
+image_274.jpg,1,0,1,Color Cast(LOW:0.46);Blur(HIGH:0.87)
+image_275.jpg,1,0,1,Color Cast(LOW:0.45);Blur(HIGH:0.92)
+image_276.jpg,1,0,1,Color Cast(LOW:0.44);Blur(HIGH:0.93)
+image_277.jpg,1,1,1,Color Cast(LOW:0.43);Low Light(LOW:0.40);Blur(HIGH:0.86)
+image_278.jpg,1,1,1,Color Cast(LOW:0.40);Low Light(LOW:0.43);Blur(HIGH:0.88)
+image_279.jpg,0,0,1,Blur(HIGH:0.78)
+image_280.jpg,0,0,1,Blur(MEDIUM:0.70)
+image_281.jpg,0,0,1,Blur(HIGH:0.79)
+image_282.jpg,0,0,1,Blur(HIGH:0.86)
+image_283.jpg,0,0,1,Blur(HIGH:0.80)
+image_284.jpg,0,0,1,Blur(MEDIUM:0.63)
+image_285.jpg,0,0,1,Blur(HIGH:0.73)
+image_286.jpg,0,0,1,Blur(HIGH:0.85)
+image_287.jpg,0,0,1,Blur(HIGH:0.89)
+image_288.jpg,1,0,1,Color Cast(LOW:0.44);Blur(HIGH:0.87)
+image_289.jpg,1,0,1,Color Cast(LOW:0.44);Blur(HIGH:0.92)
+image_290.jpg,1,0,1,Color Cast(LOW:0.45);Blur(HIGH:0.89)
+image_291.jpg,1,0,1,Color Cast(LOW:0.44);Blur(HIGH:0.85)
+image_292.jpg,1,0,1,Color Cast(LOW:0.40);Blur(HIGH:0.74)
+image_293.jpg,1,0,0,Color Cast(LOW:0.42)
+image_294.jpg,1,0,0,Color Cast(LOW:0.41)
+image_295.jpg,1,0,0,Color Cast(LOW:0.41)
+image_296.jpg,1,0,0,Color Cast(LOW:0.41)
+image_297.jpg,1,0,0,Color Cast(LOW:0.41)
+image_298.jpg,1,0,0,Color Cast(LOW:0.44)
+image_299.jpg,1,0,0,Color Cast(LOW:0.47)
+image_300.jpg,1,0,0,Color Cast(LOW:0.48)
+image_301.jpg,1,0,0,Color Cast(LOW:0.42)
+image_302.jpg,1,0,0,Color Cast(LOW:0.42)
+image_303.jpg,1,0,0,Color Cast(LOW:0.40)
+image_304.jpg,1,0,0,Color Cast(LOW:0.40)
+image_305.jpg,1,0,0,Color Cast(LOW:0.41)
+image_306.jpg,1,0,0,Color Cast(LOW:0.42)
+image_307.jpg,0,0,0,Normal
+image_308.jpg,1,0,0,Color Cast(LOW:0.41)
+image_309.jpg,1,0,0,Color Cast(LOW:0.41)
+image_310.jpg,1,0,1,Color Cast(MEDIUM:0.57);Blur(HIGH:0.86)
+image_311.jpg,1,0,1,Color Cast(MEDIUM:0.54);Blur(HIGH:0.79)
+image_312.jpg,1,0,1,Color Cast(MEDIUM:0.54);Blur(HIGH:0.76)
+image_313.jpg,1,0,0,Color Cast(LOW:0.49)
+image_314.jpg,1,0,0,Color Cast(LOW:0.45)
+image_315.jpg,1,0,0,Color Cast(LOW:0.44)
+image_316.jpg,1,0,0,Color Cast(LOW:0.43)
+image_317.jpg,1,0,0,Color Cast(LOW:0.42)
+image_318.jpg,1,0,0,Color Cast(LOW:0.41)
+image_319.jpg,1,0,0,Color Cast(LOW:0.41)
+image_320.jpg,1,0,0,Color Cast(LOW:0.41)
+image_321.jpg,1,1,0,Color Cast(LOW:0.46);Low Light(MEDIUM:0.64)
+image_322.jpg,0,1,1,Low Light(HIGH:0.79);Blur(MEDIUM:0.64)
+image_323.jpg,0,1,0,Low Light(LOW:0.41)
+image_324.jpg,0,0,0,Normal
+image_325.jpg,0,0,0,Normal
+image_326.jpg,0,0,0,Normal
+image_327.jpg,0,0,0,Normal
+image_328.jpg,1,1,1,Color Cast(MEDIUM:0.52);Low Light(MEDIUM:0.63);Blur(MEDIUM:0.62)
+image_329.jpg,0,0,0,Normal
+image_330.jpg,0,0,0,Normal
+image_331.jpg,0,0,0,Normal
+image_332.jpg,1,0,1,Color Cast(MEDIUM:0.51);Blur(MEDIUM:0.64)
+image_333.jpg,1,1,0,Color Cast(MEDIUM:0.53);Low Light(HIGH:0.77)
+image_334.jpg,1,1,0,Color Cast(MEDIUM:0.52);Low Light(LOW:0.48)
+image_335.jpg,1,1,1,Color Cast(MEDIUM:0.54);Low Light(MEDIUM:0.63);Blur(HIGH:0.77)
+image_336.jpg,1,0,0,Color Cast(LOW:0.42)
+image_337.jpg,1,1,0,Color Cast(LOW:0.41);Low Light(LOW:0.41)
+image_338.jpg,1,1,0,Color Cast(LOW:0.49);Low Light(MEDIUM:0.65)
+image_339.jpg,0,1,0,Low Light(MEDIUM:0.53)
+image_340.jpg,1,0,0,Color Cast(MEDIUM:0.54)
+image_341.jpg,1,0,1,Color Cast(LOW:0.43);Blur(MEDIUM:0.55)
+image_342.jpg,0,0,0,Normal
+image_343.jpg,1,0,1,Color Cast(LOW:0.47);Blur(HIGH:0.91)
+image_344.jpg,0,0,1,Blur(MEDIUM:0.65)
+image_345.jpg,1,0,0,Color Cast(LOW:0.41)
+image_346.jpg,1,1,1,Color Cast(MEDIUM:0.59);Low Light(LOW:0.41);Blur(HIGH:0.73)
+image_347.jpg,0,1,0,Low Light(LOW:0.49)
+image_348.jpg,1,1,1,Color Cast(LOW:0.49);Low Light(MEDIUM:0.52);Blur(MEDIUM:0.68)
+image_349.jpg,1,0,1,Color Cast(MEDIUM:0.54);Blur(MEDIUM:0.70)
+image_350.jpg,1,1,1,Color Cast(MEDIUM:0.51);Low Light(MEDIUM:0.60);Blur(LOW:0.41)
+image_351.jpg,1,1,1,Color Cast(MEDIUM:0.67);Low Light(MEDIUM:0.57);Blur(LOW:0.45)
+image_352.jpg,0,1,0,Low Light(MEDIUM:0.53)
+image_353.jpg,0,0,0,Normal
+image_354.jpg,1,0,1,Color Cast(LOW:0.49);Blur(MEDIUM:0.61)
+image_355.jpg,0,0,1,Blur(LOW:0.47)
+image_356.jpg,1,1,0,Color Cast(LOW:0.44);Low Light(LOW:0.48)
+image_357.jpg,0,1,0,Low Light(LOW:0.42)
+image_358.jpg,1,0,0,Color Cast(MEDIUM:0.54)
+image_359.jpg,1,1,0,Color Cast(LOW:0.43);Low Light(LOW:0.40)
+image_360.jpg,0,0,0,Normal
+image_361.jpg,1,0,1,Color Cast(LOW:0.42);Blur(MEDIUM:0.57)
+image_362.jpg,1,1,0,Color Cast(LOW:0.43);Low Light(LOW:0.41)
+image_363.jpg,0,1,0,Low Light(LOW:0.43)
+image_364.jpg,1,1,0,Color Cast(LOW:0.43);Low Light(LOW:0.48)
+image_365.jpg,0,0,0,Normal
+image_366.jpg,1,1,0,Color Cast(MEDIUM:0.50);Low Light(MEDIUM:0.56)
+image_367.jpg,1,0,0,Color Cast(LOW:0.45)
+image_368.jpg,0,1,0,Low Light(LOW:0.47)
+image_369.jpg,1,0,0,Color Cast(MEDIUM:0.51)
+image_370.jpg,0,1,0,Low Light(LOW:0.43)
+image_371.jpg,1,1,1,Color Cast(MEDIUM:0.59);Low Light(MEDIUM:0.53);Blur(HIGH:0.72)
+image_372.jpg,0,1,0,Low Light(MEDIUM:0.62)
+image_373.jpg,0,1,1,Low Light(LOW:0.41);Blur(MEDIUM:0.64)
+image_374.jpg,1,1,1,Color Cast(LOW:0.47);Low Light(MEDIUM:0.54);Blur(MEDIUM:0.65)
+image_375.jpg,1,1,0,Color Cast(MEDIUM:0.64);Low Light(LOW:0.47)
+image_376.jpg,1,0,0,Color Cast(LOW:0.42)
+image_377.jpg,1,0,1,Color Cast(LOW:0.48);Blur(HIGH:0.81)
+image_378.jpg,1,1,0,Color Cast(MEDIUM:0.50);Low Light(LOW:0.43)
+image_379.jpg,1,1,0,Color Cast(LOW:0.42);Low Light(LOW:0.47)
+image_380.jpg,1,1,1,Color Cast(LOW:0.50);Low Light(LOW:0.48);Blur(MEDIUM:0.64)
+image_381.jpg,0,1,1,Low Light(MEDIUM:0.62);Blur(LOW:0.44)
+image_382.jpg,1,1,0,Color Cast(MEDIUM:0.59);Low Light(MEDIUM:0.57)
+image_383.jpg,1,0,0,Color Cast(LOW:0.49)
+image_384.jpg,0,0,0,Normal
+image_385.jpg,1,1,0,Color Cast(MEDIUM:0.69);Low Light(MEDIUM:0.59)
+image_386.jpg,0,1,0,Low Light(LOW:0.40)
+image_387.jpg,1,0,1,Color Cast(LOW:0.41);Blur(MEDIUM:0.53)
+image_388.jpg,0,1,0,Low Light(LOW:0.42)
+image_389.jpg,0,0,0,Normal
+image_390.jpg,1,1,0,Color Cast(LOW:0.41);Low Light(MEDIUM:0.54)
+image_391.jpg,0,0,0,Normal
+image_392.jpg,1,0,0,Color Cast(LOW:0.42)
+image_393.jpg,1,1,0,Color Cast(LOW:0.45);Low Light(MEDIUM:0.67)
+image_394.jpg,1,1,0,Color Cast(LOW:0.45);Low Light(LOW:0.44)
+image_395.jpg,0,0,0,Normal
+image_396.jpg,0,1,1,Low Light(MEDIUM:0.61);Blur(MEDIUM:0.54)
+image_397.jpg,1,1,0,Color Cast(LOW:0.45);Low Light(LOW:0.47)
+image_398.jpg,0,0,0,Normal
+image_399.jpg,1,0,1,Color Cast(MEDIUM:0.52);Blur(HIGH:0.80)
+image_400.jpg,1,1,0,Color Cast(LOW:0.40);Low Light(MEDIUM:0.58)

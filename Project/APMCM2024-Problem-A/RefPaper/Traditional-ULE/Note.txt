@@ -1,0 +1,19 @@
+ 
+1.!!TIP2017-A Color Balance and Fusion for Underwater Image Enhancement.pdf：似乎代码不怎么样
+
+2. ..CVPR2024 Wavelet-based fourier information interaction with frequency diffusion adjustment for underwater image restoration.pdf 
+作者在忙，说保证24年12月开源代码
+
+3. ..TIP2019-A Color channel compensation (3C)- A fundamental pre-processing step for image enhancement.pdf ：有仓库无代码
+
+4. ..TIP2022-A Underwater image enhancement with hyper-laplacian reflectance priors.pdf：有仓库无代码
+
+5. ..ACM2023 A generalized physical-knowledge-guided dynamic model for underwater image enhancement.pdf 没找到代码
+启发式先验，开发了一种可逆映射来实现退化图像与清晰图像之间的转换
+
+6. .CVPR2019-A Sea-thru A Method For Removing Water From Underwater Images.pdf
+物理模型，主要恢复颜色
+没细看，感觉有点看不懂，且没有代码（可能是纯理论文献）。
+可以引用其中的模型
+
+7. TIP2017-A Underwater image restoration based on image blurriness and light absorption.pdf 

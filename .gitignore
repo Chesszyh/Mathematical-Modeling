@@ -1,0 +1,21 @@
+# Folder
+数学建模资料/
+
+# image
+*.jpg
+*.png
+
+.git/
+./vscode/
+
+# Project/APMCM2024-Problem-A/
+Project/APMCM2024-Problem-A/__pycache__/
+Project/APMCM2024-Problem-A/Attachment1/
+Project/APMCM2024-Problem-A/Attachment2/
+Project/APMCM2024-Problem-A/enhanced_task3/
+Project/APMCM2024-Problem-A/enhanced_task4
+Project/APMCM2024-Problem-A/models/
+Project/APMCM2024-Problem-A/training_visualization/
+Project/APMCM2024-Problem-A/visualization_results
+Project/APMCM2024-Problem-A/visualization_results_test
+Project/APMCM2024-Problem-A/visualization_results_train

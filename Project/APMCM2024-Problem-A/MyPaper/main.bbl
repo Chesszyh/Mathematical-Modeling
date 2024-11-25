@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{cong2023pugan}
+Runmin Cong, Wenyu Yang, Wei Zhang, Chongyi Li, Chun-Le Guo, Qingming Huang, and Sam Kwong.
+\newblock Pugan: Physical model-guided underwater image enhancement using gan with dual-discriminators.
+\newblock {\em IEEE Transactions on Image Processing}, 32:4472--4485, 2023.
+
+\bibitem{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and pattern recognition}, pages 770--778, 2016.
+
+\bibitem{peng2023u}
+Lintao Peng, Chunli Zhu, and Liheng Bian.
+\newblock U-shape transformer for underwater image enhancement.
+\newblock {\em IEEE Transactions on Image Processing}, 32:3066--3079, 2023.
+
+\bibitem{ronneberger2015u}
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+\newblock In {\em Medical image computing and computer-assisted intervention--MICCAI 2015: 18th international conference, Munich, Germany, October 5-9, 2015, proceedings, part III 18}, pages 234--241. Springer, 2015.
+
+\end{thebibliography}

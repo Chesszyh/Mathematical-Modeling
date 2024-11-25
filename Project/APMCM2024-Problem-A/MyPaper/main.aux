@@ -1,0 +1,118 @@
+\relax 
+\citation{cong2023pugan}
+\citation{peng2023u}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1\,.\,1}Background and Motivation}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1\,.\,2}Previous Solutions and Limitations}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1\,.\,3}Deep Learning Approaches}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1\,.\,4}Our Contributions}{1}{}\protected@file@percent }
+\citation{ronneberger2015u}
+\citation{he2016deep}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Problem Description and Analysis}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Model Assumptions}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Model Development}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4\,.\,1}Problem 1: Underwater Image Degradation Identification Model}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4\,.\,1\,.\,1}Overview}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4\,.\,1\,.\,2}Terminology and Notation}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4\,.\,1\,.\,3}Model Development}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{1. Color Cast Detection}{5}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Color Cast Detection Example}}{6}{}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:example_1}{{1}{6}{1. Color Cast Detection}{}{}}
+\@writefile{toc}{\contentsline {paragraph}{2. Low-Light Detection}{6}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Brightness distribution analysis of the image. The horizontal axis represents pixel brightness values (0-255), and the vertical axis denotes the frequency of pixels for each brightness level. The histogram shows a significant concentration of pixels in the lower brightness range (peak around 50), indicating low-light conditions in the image. The red dashed line marks the low-light threshold (approximately 90), serving as a reference for identifying and enhancing low-light regions.}}{7}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{3. Blur Detection}{7}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Edge detection analysis of a blurred underwater image. The left panel shows the original blurred image captured underwater. The middle panel illustrates edge detection using the Canny algorithm, highlighting primary structures with sparse edges. The right panel demonstrates edge enhancement via the Laplacian operator, revealing more detailed edges but introducing additional noise. This comparison highlights the trade-off between edge clarity and noise sensitivity in blur detection methods.}}{8}{}\protected@file@percent }
+\newlabel{fig:example_3}{{3}{8}{3. Blur Detection}{}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4\,.\,1\,.\,4}Comprehensive Judgment and Classification}{8}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{1. Weighted Score Calculation}{8}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{2. Classification Decision}{8}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4\,.\,2}Problem 2: Physical Model of Underwater Image Degradation}{9}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,1}Principles of Underwater Imaging}{9}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,2}Modeling of Degradation Types}{9}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{1. Color Attenuation (Color Distortion)}{9}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{2. Brightness Attenuation (Low Illumination)}{9}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{3. Forward Scattering Blur}{10}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,3}Analysis of Degradation Models}{10}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Problem 3: Single Degradation Scenario Enhancement Models}{11}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5\,.\,1}Color Cast Correction Method Based on Gray World Assumption}{11}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5\,.\,2}Brightness Enhancement Method Based on Histogram Equalization}{11}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5\,.\,3}Deblurring Method Based on Unsharp Masking}{12}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5\,.\,4}Experimental Verification}{13}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces  Single degradation scenario enhancement results. The original image is classified as "Low Illumination, Blur".}}{13}{}\protected@file@percent }
+\newlabel{fig:example_4}{{4}{13}{Experimental Verification}{}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5\,.\,5}Objective Evaluation Metrics}{13}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces  Color cast detection results based on RGB, LAB, and HSV color space analysis.}}{14}{}\protected@file@percent }
+\newlabel{fig:example_5}{{5}{14}{Experimental Verification}{}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Problem 4: Complex Degradation Scene Enhancement Model}{14}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6\,.\,1}Introduction}{14}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6\,.\,2}Model Architecture}{15}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,2\,.\,1}Overall Network Structure}{15}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,2\,.\,2}Encoder}{15}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,2\,.\,3}Attention Mechanism}{15}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,2\,.\,4}Decoder}{16}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,2\,.\,5}Deep Learning Model Architecture}{16}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6\,.\,3}Loss Function}{16}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Improved U-Net Architecture with ResNet Encoder and SE Blocks}}{17}{}\protected@file@percent }
+\newlabel{fig:model_architecture}{{6}{17}{Deep Learning Model Architecture}{}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,3\,.\,1}Pixel-Level Loss}{17}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,3\,.\,2}Perceptual Loss}{18}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,3\,.\,3}Structural Similarity Loss}{18}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,3\,.\,4}Overall Loss}{18}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6\,.\,4}Training Procedure}{18}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,4\,.\,1}Data Preparation}{18}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,4\,.\,2}Model Training}{18}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces  Training loss curves of the deep learning model over 100 epochs. The model converges well, demonstrating effective learning.}}{19}{}\protected@file@percent }
+\newlabel{fig:example_6}{{7}{19}{Model Training}{}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6\,.\,5}Experimental Results and Analysis}{19}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,5\,.\,1}Qualitative Results}{19}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces  Complex degradation scene enhancement results. The original image is classified as "Low Illumination, Blur".}}{19}{}\protected@file@percent }
+\newlabel{fig:example_6}{{8}{19}{Qualitative Results}{}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6\,.\,5\,.\,2}Quantitative Evaluation}{19}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces  Color cast detection results based on RGB, LAB, and HSV color space analysis.}}{20}{}\protected@file@percent }
+\newlabel{fig:example_7}{{9}{20}{Qualitative Results}{}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6\,.\,6}Summary}{20}{}\protected@file@percent }
+\newlabel{fig:traditional_1}{{10a}{20}{Summary}{}{}}
+\newlabel{sub@fig:traditional_1}{{a}{20}{Summary}{}{}}
+\newlabel{fig:traditional_2}{{10b}{20}{Summary}{}{}}
+\newlabel{sub@fig:traditional_2}{{b}{20}{Summary}{}{}}
+\newlabel{fig:deep_1}{{10c}{20}{Summary}{}{}}
+\newlabel{sub@fig:deep_1}{{c}{20}{Summary}{}{}}
+\newlabel{fig:deep_2}{{10d}{20}{Summary}{}{}}
+\newlabel{sub@fig:deep_2}{{d}{20}{Summary}{}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces  Comparison of Traditional and Deep Learning Models on Four Metrics.}}{20}{}\protected@file@percent }
+\newlabel{fig:comparison}{{10}{20}{Summary}{}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Problem 5: Comparison and Analysis}{20}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7\,.\,1}Comparison of Single-Scene Enhancement Methods and the Complex Scene Enhancement Model}{20}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {7\,.\,1\,.\,1}Comparison of Enhancement Effects}{20}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {7\,.\,1\,.\,2}Comparison of Evaluation Metrics}{21}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7\,.\,2}Practical Application Recommendations}{21}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {7\,.\,2\,.\,1}Method Selection}{21}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {7\,.\,2\,.\,2}Computational Resource Considerations}{21}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7\,.\,3}Summary}{21}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {8}Model Evaluation, Improvement, and Extension}{22}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {8\,.\,1}Model Evaluation}{22}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {8\,.\,1\,.\,1}Single-Degradation Enhancement Methods}{22}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {8\,.\,1\,.\,2}Complex Degradation Deep Learning Model}{22}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {8\,.\,2}Model Improvements}{22}{}\protected@file@percent }
+\bibstyle{plain}
+\bibdata{references}
+\bibcite{cong2023pugan}{1}
+\bibcite{he2016deep}{2}
+\bibcite{peng2023u}{3}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8\,.\,3}Model Extension}{23}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {9}Summary}{23}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {10}References}{23}{}\protected@file@percent }
+\bibcite{ronneberger2015u}{4}
+\@writefile{toc}{\contentsline {section}{\numberline {11}Appendix}{25}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {11\,.\,1}Model Architecture}{25}{}\protected@file@percent }
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {1}{\ignorespaces Deep Learning Model Architecture}}{25}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {11\,.\,2}Training Procedure}{28}{}\protected@file@percent }
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {2}{\ignorespaces Training Script}}{28}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {11\,.\,3}Configuration Parameters}{31}{}\protected@file@percent }
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {3}{\ignorespaces Configuration File}}{31}{}\protected@file@percent }
+\ttl@finishall
+\newlabel{LastPage}{{11\protect \,.\protect \,3}{33}{Configuration Parameters}{}{}}
+\gdef\lastpage@lastpage{33}
+\gdef\lastpage@lastpageHy{}
+\gdef \@abspage@last{36}
