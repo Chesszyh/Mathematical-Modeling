@@ -1,0 +1,44 @@
+summerOly_medal_counts.csv,,
+variables,explanation,example
+Rank,Rank of country based on total medals won,"1, 2"
+NOC,Name of country as recorded for that Olympics,"China, France"
+Gold,Number of Gold medals the country earned,"0, 1, 2"
+Silver,Number of Silver medals the country earned,"0, 1, 2"
+Bronze,Number of Bronze medals the country earned,"0, 1, 2"
+Total,Number of Total medals the country earned,"0, 1, 2"
+Year,Olympic year,"1896, 1900"
+,,
+,,
+
+summerOly_hosts.csv,,
+variables,explanation,example
+Year,Olympic year,"1896, 1900"
+Host,"Location where olympics were held (city, country)","St. Louis, United States"
+,,
+,,
+
+summerOly_programs.csv,,
+variables,explanation,example
+Sport,Sport category,"Aquatics, Cycling"
+Discipline,Discipline within the sport category,"Artistic swimming, Diving"
+Code,Code for the discipline,"SWA, DIV"
+Year,Number of events in disipline for that year,"0, 1"
+Data set of current and discontinued summer program.,,
+Column Descriptors,,
+Sport and Discipline: ,The sports (and disciplines) make up the current and discontinued Summer Olympic Games official program and are listed alphabetically according to the name used by the IOC. ,
+Code: ,Each discipline is marked with a unique 3-character identifier code by the IOC. ,
+Sports Governing Body:,A listing of the sports governing bodies associated with Olympic sports.,
+2000 - 2028: ,The four number code in each column represents the year of the associated Olympic Games. ,
+
+summerOly_athletes.csv,,
+variables,explanation,example
+Name,Athlete name,"Cai Yun, Carl Lewis"
+Sex,Sex of athlete,"F, M"
+Team,Country name as recorded at the Olympics,"China, France"
+NOC,Name of Country (code),"CHN, FRA"
+Year,Olympic year,"1896, 1900"
+Season,Type of Olympics,Summer
+City,City where Olympics were held,"Beijing, Paris"
+Sport,Sport category,"Aquatics, Cycling"
+Event,Event within the sport,Gymnastics Men's Rings
+Medal,Medal earned,"No medal, Gold"
