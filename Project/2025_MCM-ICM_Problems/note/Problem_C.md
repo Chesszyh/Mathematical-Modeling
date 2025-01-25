@@ -22,6 +22,12 @@
 
 - 你的模型揭示了奥运奖牌数的哪些其他独特见解？解释这些见解如何**帮助各国奥委会制定策略**。
 
+- Update:
+
+Your models and data analysis must ONLY use the provided data sets, with ONE exception* (see below). You may refer to additional resources, including additional data, to provide background and context or help with interpreting results (be sure to document the sources). Any additional data you obtain should strictly serve as supporting information to help explain your findings and must be properly documented.
+
+*Data Exception: 2028 & 2032 Olympic Program data may be obtained and used with the provided data sets for model and data analysis for Problem C.
+
 ## C题数据
 
 2025_Problem_C_Data.zip：这个压缩包包含以下5个数据文件：  

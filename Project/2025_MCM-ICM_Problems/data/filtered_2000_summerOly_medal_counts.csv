@@ -1,0 +1,598 @@
+Rank,NOC,Gold,Silver,Bronze,Total,Year
+1,United States,37,24,32,93,2000
+2,Russia,32,28,29,89,2000
+3,China,28,16,14,58,2000
+4,Australia,16,25,17,58,2000
+5,Germany,13,17,26,56,2000
+6,France,13,14,11,38,2000
+7,Italy,13,8,13,34,2000
+8,Netherlands,12,9,4,25,2000
+9,Cuba,11,11,7,29,2000
+10,Great Britain,11,10,7,28,2000
+11,Romania,11,6,9,26,2000
+12,South Korea,8,10,10,28,2000
+13,Hungary,8,6,3,17,2000
+14,Poland,6,5,3,14,2000
+15,Japan,5,8,5,18,2000
+16,Bulgaria,5,6,2,13,2000
+17,Greece,4,6,3,13,2000
+18,Sweden,4,5,3,12,2000
+19,Norway,4,3,3,10,2000
+20,Ethiopia,4,1,3,8,2000
+21,Ukraine,3,10,10,23,2000
+22,Kazakhstan,3,4,0,7,2000
+23,Belarus,3,3,11,17,2000
+24,Canada,3,3,8,14,2000
+25,Spain,3,3,5,11,2000
+26,Turkey,3,0,2,5,2000
+27,Iran,3,0,1,4,2000
+28,Czech Republic,2,3,3,8,2000
+29,Kenya,2,3,2,7,2000
+30,Denmark,2,3,1,6,2000
+31,Finland,2,1,1,4,2000
+32,Austria,2,1,0,3,2000
+33,Lithuania,2,0,3,5,2000
+34,Azerbaijan,2,0,1,3,2000
+34,Bahamas,2,0,1,3,2000
+36,Slovenia,2,0,0,2,2000
+37,Switzerland,1,6,2,9,2000
+38,Indonesia,1,3,2,6,2000
+39,Slovakia,1,3,1,5,2000
+40,Mexico,1,2,3,6,2000
+41,Nigeria,1,2,0,3,2000
+42,Algeria,1,1,3,5,2000
+43,Uzbekistan,1,1,2,4,2000
+44,FR Yugoslavia,1,1,1,3,2000
+44,Latvia,1,1,1,3,2000
+46,New Zealand,1,0,3,4,2000
+47,Estonia,1,0,2,3,2000
+47,Thailand,1,0,2,3,2000
+49,Croatia,1,0,1,2,2000
+50,Cameroon,1,0,0,1,2000
+50,Colombia,1,0,0,1,2000
+50,Mozambique,1,0,0,1,2000
+53,Brazil,0,6,6,12,2000
+54,Jamaica,0,6,3,9,2000
+55,Belgium,0,2,3,5,2000
+55,South Africa,0,2,3,5,2000
+57,Argentina,0,2,2,4,2000
+58,Chinese Taipei,0,1,4,5,2000
+58,Morocco,0,1,4,5,2000
+60,North Korea,0,1,3,4,2000
+61,Moldova,0,1,1,2,2000
+61,Saudi Arabia,0,1,1,2,2000
+61,Trinidad and Tobago,0,1,1,2,2000
+64,Ireland,0,1,0,1,2000
+64,Sri Lanka,0,1,0,1,2000
+64,Uruguay,0,1,0,1,2000
+64,Vietnam,0,1,0,1,2000
+68,Georgia,0,0,6,6,2000
+69,Costa Rica,0,0,2,2,2000
+69,Portugal,0,0,2,2,2000
+71,Armenia,0,0,1,1,2000
+71,Barbados,0,0,1,1,2000
+71,Chile,0,0,1,1,2000
+71,Iceland,0,0,1,1,2000
+71,India,0,0,1,1,2000
+71,Israel,0,0,1,1,2000
+71,Kuwait,0,0,1,1,2000
+71,Kyrgyzstan,0,0,1,1,2000
+71,Macedonia,0,0,1,1,2000
+71,Qatar,0,0,1,1,2000
+1,United States,36,39,26,101,2004
+2,China,32,17,14,63,2004
+3,Russia,28,26,36,90,2004
+4,Australia,17,16,17,50,2004
+5,Japan,16,9,12,37,2004
+6,Germany,13,16,20,49,2004
+7,France,11,9,13,33,2004
+8,Italy,10,11,11,32,2004
+9,South Korea,9,12,9,30,2004
+10,Great Britain,9,9,12,30,2004
+11,Cuba,9,7,11,27,2004
+12,Hungary,8,6,3,17,2004
+13,Ukraine,8,5,9,22,2004
+14,Romania,8,5,6,19,2004
+15,Greece,6,6,4,16,2004
+16,Brazil,5,2,3,10,2004
+17,Norway,5,0,1,6,2004
+18,Netherlands,4,9,9,22,2004
+19,Sweden,4,2,1,7,2004
+20,Spain,3,11,6,20,2004
+21,Canada,3,6,3,12,2004
+22,Turkey,3,3,4,10,2004
+23,Poland,3,2,5,10,2004
+24,New Zealand,3,2,0,5,2004
+25,Thailand,3,1,4,8,2004
+26,Belarus,2,5,6,13,2004
+27,Austria,2,4,1,7,2004
+28,Ethiopia,2,3,2,7,2004
+29,Iran,2,2,2,6,2004
+29,Slovakia,2,2,2,6,2004
+31,Chinese Taipei,2,2,1,5,2004
+32,Georgia,2,2,0,4,2004
+33,Bulgaria,2,1,9,12,2004
+34,Denmark,2,1,5,8,2004
+35,Jamaica,2,1,2,5,2004
+35,Uzbekistan,2,1,2,5,2004
+37,Morocco,2,1,0,3,2004
+38,Argentina,2,0,4,6,2004
+39,Chile,2,0,1,3,2004
+40,Kazakhstan,1,4,3,8,2004
+41,Kenya,1,4,2,7,2004
+42,Czech Republic,1,3,5,9,2004
+43,South Africa,1,3,2,6,2004
+44,Croatia,1,2,2,5,2004
+45,Lithuania,1,2,0,3,2004
+46,Egypt,1,1,3,5,2004
+46,Switzerland,1,1,3,5,2004
+48,Indonesia,1,1,2,4,2004
+49,Zimbabwe,1,1,1,3,2004
+50,Azerbaijan,1,0,4,5,2004
+51,Belgium,1,0,2,3,2004
+52,Bahamas,1,0,1,2,2004
+52,Israel,1,0,1,2,2004
+54,Cameroon,1,0,0,1,2004
+54,Dominican Republic,1,0,0,1,2004
+54,United Arab Emirates,1,0,0,1,2004
+57,North Korea,0,4,1,5,2004
+58,Latvia,0,4,0,4,2004
+59,Mexico,0,3,1,4,2004
+60,Portugal,0,2,1,3,2004
+61,Finland,0,2,0,2,2004
+61,Serbia and Montenegro,0,2,0,2,2004
+63,Slovenia,0,1,3,4,2004
+64,Estonia,0,1,2,3,2004
+65,Hong Kong,0,1,0,1,2004
+65,India,0,1,0,1,2004
+65,Paraguay,0,1,0,1,2004
+68,Colombia,0,0,2,2,2004
+68,Nigeria,0,0,2,2,2004
+68,Venezuela,0,0,2,2,2004
+71,Eritrea,0,0,1,1,2004
+71,Mongolia,0,0,1,1,2004
+71,Syria,0,0,1,1,2004
+71,Trinidad and Tobago,0,0,1,1,2004
+1,China,48,22,30,100,2008
+2,United States,36,39,37,112,2008
+3,Russia,24,13,23,60,2008
+4,Great Britain,19,13,19,51,2008
+5,Germany,16,11,14,41,2008
+6,Australia,14,15,17,46,2008
+7,South Korea,13,11,8,32,2008
+8,Japan,9,8,8,25,2008
+9,Italy,8,9,10,27,2008
+10,France,7,16,20,43,2008
+11,Netherlands,7,5,4,16,2008
+12,Ukraine,7,4,11,22,2008
+13,Kenya,6,4,6,16,2008
+14,Spain,5,11,3,19,2008
+15,Jamaica,5,4,2,11,2008
+16,Poland,4,5,2,11,2008
+17,Ethiopia,4,2,1,7,2008
+18,Romania,4,1,4,9,2008
+19,Cuba,3,10,17,30,2008
+20,Canada,3,9,8,20,2008
+21,Hungary,3,5,2,10,2008
+22,Norway,3,5,1,9,2008
+23,Brazil,3,4,10,17,2008
+24,Belarus,3,4,7,14,2008
+25,Czech Republic,3,3,1,7,2008
+26,Slovakia,3,3,0,6,2008
+27,New Zealand,3,2,4,9,2008
+28,Georgia,3,2,2,7,2008
+29,Kazakhstan,2,3,4,9,2008
+30,Denmark,2,2,3,7,2008
+31,North Korea,2,2,2,6,2008
+31,Thailand,2,2,2,6,2008
+33,Mongolia,2,2,0,4,2008
+34,Switzerland,2,1,4,7,2008
+35,Argentina,2,0,4,6,2008
+36,Mexico,2,0,2,4,2008
+37,Belgium,2,0,0,2,2008
+38,Zimbabwe,1,3,0,4,2008
+39,Slovenia,1,2,2,5,2008
+40,Azerbaijan,1,1,4,6,2008
+40,Indonesia,1,1,4,6,2008
+42,Bulgaria,1,1,3,5,2008
+42,Turkey,1,1,3,5,2008
+44,Chinese Taipei,1,1,2,4,2008
+44,Finland,1,1,2,4,2008
+46,Latvia,1,1,1,3,2008
+47,Dominican Republic,1,1,0,2,2008
+47,Estonia,1,1,0,2,2008
+47,Portugal,1,1,0,2,2008
+47,Trinidad and Tobago,1,1,0,2,2008
+51,India,1,0,2,3,2008
+52,Iran,1,0,1,2,2008
+53,Cameroon,1,0,0,1,2008
+53,Panama,1,0,0,1,2008
+53,Tunisia,1,0,0,1,2008
+56,Sweden,0,4,1,5,2008
+57,Lithuania,0,3,2,5,2008
+57,Nigeria,0,3,2,5,2008
+59,Croatia,0,2,3,5,2008
+60,Colombia,0,2,1,3,2008
+60,Greece,0,2,1,3,2008
+62,Armenia,0,1,4,5,2008
+63,Uzbekistan,0,1,3,4,2008
+64,Austria,0,1,2,3,2008
+64,Ireland,0,1,2,3,2008
+64,Kyrgyzstan,0,1,2,3,2008
+64,Serbia,0,1,2,3,2008
+68,Algeria,0,1,1,2,2008
+68,Bahamas,0,1,1,2,2008
+68,Morocco,0,1,1,2,2008
+68,Tajikistan,0,1,1,2,2008
+72,Chile,0,1,0,1,2008
+72,Ecuador,0,1,0,1,2008
+72,Iceland,0,1,0,1,2008
+72,Malaysia,0,1,0,1,2008
+72,Samoa,0,1,0,1,2008
+72,Singapore,0,1,0,1,2008
+72,South Africa,0,1,0,1,2008
+72,Sudan,0,1,0,1,2008
+72,Vietnam,0,1,0,1,2008
+81,Egypt,0,0,2,2,2008
+82,Afghanistan,0,0,1,1,2008
+82,Israel,0,0,1,1,2008
+82,Mauritius,0,0,1,1,2008
+82,Moldova,0,0,1,1,2008
+82,Togo,0,0,1,1,2008
+82,Venezuela,0,0,1,1,2008
+1,United States,48,26,30,104,2012
+2,China,39,31,22,92,2012
+3,Great Britain,29,18,18,65,2012
+4,Russia,18,21,26,65,2012
+5,South Korea,13,9,9,31,2012
+6,Germany,11,20,13,44,2012
+7,France,11,11,13,35,2012
+8,Australia,8,15,12,35,2012
+9,Italy,8,9,11,28,2012
+10,Hungary,8,4,6,18,2012
+11,Japan,7,14,17,38,2012
+12,Iran,7,5,1,13,2012
+13,Netherlands,6,6,8,20,2012
+14,New Zealand,6,2,5,13,2012
+15,Ukraine,5,4,10,19,2012
+16,Cuba,5,3,7,15,2012
+17,Spain,4,10,6,20,2012
+18,Jamaica,4,5,4,13,2012
+19,Czech Republic,4,4,3,11,2012
+20,South Africa,4,1,1,6,2012
+21,North Korea,4,0,2,6,2012
+22,Brazil,3,5,9,17,2012
+23,Kazakhstan,3,2,6,11,2012
+23,Poland,3,2,6,11,2012
+25,Ethiopia,3,2,3,8,2012
+26,Croatia,3,1,2,6,2012
+27,Canada,2,6,10,18,2012
+28,Belarus,2,5,3,10,2012
+29,Kenya,2,4,7,13,2012
+30,Denmark,2,4,3,9,2012
+31,Romania,2,4,1,7,2012
+32,Azerbaijan,2,2,5,9,2012
+33,Switzerland,2,2,0,4,2012
+34,Norway,2,1,1,4,2012
+35,Lithuania,2,0,3,5,2012
+36,Tunisia,2,0,1,3,2012
+37,Sweden,1,4,3,8,2012
+38,Colombia,1,3,5,9,2012
+39,Mexico,1,3,4,8,2012
+40,Georgia,1,2,3,6,2012
+41,Ireland,1,1,4,6,2012
+42,Argentina,1,1,2,4,2012
+42,Serbia,1,1,2,4,2012
+42,Slovenia,1,1,2,4,2012
+42,Trinidad and Tobago,1,1,2,4,2012
+46,Turkey,1,1,1,3,2012
+47,Dominican Republic,1,1,0,2,2012
+48,Chinese Taipei,1,0,1,2,2012
+48,Latvia,1,0,1,2,2012
+50,Algeria,1,0,0,1,2012
+50,Bahamas,1,0,0,1,2012
+50,Bahrain,1,0,0,1,2012
+50,Grenada,1,0,0,1,2012
+50,Uganda,1,0,0,1,2012
+50,Venezuela,1,0,0,1,2012
+56,Egypt,0,3,1,4,2012
+57,India,0,2,4,6,2012
+58,Mongolia,0,2,3,5,2012
+59,Thailand,0,2,2,4,2012
+60,Bulgaria,0,2,1,3,2012
+60,Finland,0,2,1,3,2012
+60,Indonesia,0,2,1,3,2012
+63,Slovakia,0,1,3,4,2012
+64,Belgium,0,1,2,3,2012
+65,Armenia,0,1,1,2,2012
+65,Estonia,0,1,1,2,2012
+65,Malaysia,0,1,1,2,2012
+65,Puerto Rico,0,1,1,2,2012
+65,Qatar,0,1,1,2,2012
+70,Botswana,0,1,0,1,2012
+70,Cyprus,0,1,0,1,2012
+70,Gabon,0,1,0,1,2012
+70,Guatemala,0,1,0,1,2012
+70,Montenegro,0,1,0,1,2012
+70,Portugal,0,1,0,1,2012
+76,Uzbekistan,0,0,3,3,2012
+77,Greece,0,0,2,2,2012
+77,Singapore,0,0,2,2,2012
+79,Afghanistan,0,0,1,1,2012
+79,Cameroon,0,0,1,1,2012
+79,Hong Kong,0,0,1,1,2012
+79,Kuwait,0,0,1,1,2012
+79,Morocco,0,0,1,1,2012
+79,Saudi Arabia,0,0,1,1,2012
+79,Tajikistan,0,0,1,1,2012
+79,Vietnam,0,0,1,1,2012
+1,United States,46,37,38,121,2016
+2,Great Britain,27,23,17,67,2016
+3,China,26,18,26,70,2016
+4,Russia,19,17,20,56,2016
+5,Germany,17,10,15,42,2016
+6,Japan,12,8,21,41,2016
+7,France,10,18,14,42,2016
+8,South Korea,9,3,9,21,2016
+9,Italy,8,12,8,28,2016
+10,Australia,8,11,10,29,2016
+11,Netherlands,8,7,4,19,2016
+12,Hungary,8,3,4,15,2016
+13,Brazil,7,6,6,19,2016
+14,Spain,7,4,6,17,2016
+15,Kenya,6,6,1,13,2016
+16,Jamaica,6,3,2,11,2016
+17,Croatia,5,3,2,10,2016
+18,Cuba,5,2,4,11,2016
+19,New Zealand,4,9,5,18,2016
+20,Canada,4,3,15,22,2016
+21,Uzbekistan,4,2,7,13,2016
+22,Colombia,3,2,3,8,2016
+23,Switzerland,3,2,2,7,2016
+24,Iran,3,1,4,8,2016
+25,Greece,3,1,2,6,2016
+26,Argentina,3,1,0,4,2016
+27,Denmark,2,6,7,15,2016
+28,Sweden,2,6,3,11,2016
+29,South Africa,2,6,2,10,2016
+30,Kazakhstan,2,5,10,17,2016
+31,Ukraine,2,5,4,11,2016
+32,Serbia,2,4,2,8,2016
+33,Poland,2,3,6,11,2016
+34,North Korea,2,3,2,7,2016
+35,Belgium,2,2,2,6,2016
+35,Thailand,2,2,2,6,2016
+37,Slovakia,2,2,0,4,2016
+38,Georgia,2,1,4,7,2016
+39,Azerbaijan,1,7,10,18,2016
+40,Belarus,1,4,4,9,2016
+41,Turkey,1,3,4,8,2016
+42,Armenia,1,3,0,4,2016
+43,Czech Republic,1,2,7,10,2016
+44,Ethiopia,1,2,5,8,2016
+45,Slovenia,1,2,1,4,2016
+46,Indonesia,1,2,0,3,2016
+47,Romania,1,1,2,4,2016
+48,Bahrain,1,1,0,2,2016
+48,Vietnam,1,1,0,2,2016
+50,Chinese Taipei,1,0,2,3,2016
+51,Bahamas,1,0,1,2,2016
+51,Independent Olympic Athletes,1,0,1,2,2016
+51,Ivory Coast,1,0,1,2,2016
+54,Fiji,1,0,0,1,2016
+54,Jordan,1,0,0,1,2016
+54,Kosovo,1,0,0,1,2016
+54,Puerto Rico,1,0,0,1,2016
+54,Singapore,1,0,0,1,2016
+54,Tajikistan,1,0,0,1,2016
+60,Malaysia,0,4,1,5,2016
+61,Mexico,0,3,2,5,2016
+62,Venezuela,0,2,1,3,2016
+63,Algeria,0,2,0,2,2016
+63,Ireland,0,2,0,2,2016
+65,Lithuania,0,1,3,4,2016
+66,Bulgaria,0,1,2,3,2016
+67,India,0,1,1,2,2016
+67,Mongolia,0,1,1,2,2016
+69,Burundi,0,1,0,1,2016
+69,Grenada,0,1,0,1,2016
+69,Niger,0,1,0,1,2016
+69,Philippines,0,1,0,1,2016
+69,Qatar,0,1,0,1,2016
+74,Norway,0,0,4,4,2016
+75,Egypt,0,0,3,3,2016
+75,Tunisia,0,0,3,3,2016
+77,Israel,0,0,2,2,2016
+78,Austria,0,0,1,1,2016
+78,Dominican Republic,0,0,1,1,2016
+78,Estonia,0,0,1,1,2016
+78,Finland,0,0,1,1,2016
+78,Morocco,0,0,1,1,2016
+78,Nigeria,0,0,1,1,2016
+78,Portugal,0,0,1,1,2016
+78,Trinidad and Tobago,0,0,1,1,2016
+78,United Arab Emirates,0,0,1,1,2016
+1,United States,39,41,33,113,2020
+2,China,38,32,19,89,2020
+3,Japan,27,14,17,58,2020
+4,Great Britain,22,20,22,64,2020
+5,ROC,20,28,23,71,2020
+6,Australia,17,7,22,46,2020
+7,Netherlands,10,12,14,36,2020
+8,France,10,12,11,33,2020
+9,Germany,10,11,16,37,2020
+10,Italy,10,10,20,40,2020
+11,Canada,7,7,10,24,2020
+12,Brazil,7,6,8,21,2020
+13,New Zealand,7,6,7,20,2020
+14,Cuba,7,3,5,15,2020
+15,Hungary,6,7,7,20,2020
+16,South Korea,6,4,10,20,2020
+17,Poland,4,5,5,14,2020
+18,Czech Republic,4,4,3,11,2020
+19,Kenya,4,4,2,10,2020
+20,Norway,4,2,2,8,2020
+21,Jamaica,4,1,4,9,2020
+22,Spain,3,8,6,17,2020
+23,Sweden,3,6,0,9,2020
+24,Switzerland,3,4,6,13,2020
+25,Denmark,3,4,4,11,2020
+26,Croatia,3,3,2,8,2020
+27,Iran,3,2,2,7,2020
+28,Serbia,3,1,5,9,2020
+29,Belgium,3,1,3,7,2020
+30,Bulgaria,3,1,2,6,2020
+31,Slovenia,3,1,1,5,2020
+32,Uzbekistan,3,0,2,5,2020
+33,Georgia,2,5,1,8,2020
+34,Chinese Taipei,2,4,6,12,2020
+35,Turkey,2,2,9,13,2020
+36,Greece,2,1,1,4,2020
+36,Uganda,2,1,1,4,2020
+38,Ecuador,2,1,0,3,2020
+39,Ireland,2,0,2,4,2020
+39,Israel,2,0,2,4,2020
+41,Qatar,2,0,1,3,2020
+42,Bahamas,2,0,0,2,2020
+42,Kosovo,2,0,0,2,2020
+44,Ukraine,1,6,12,19,2020
+45,Belarus,1,3,3,7,2020
+46,Romania,1,3,0,4,2020
+46,Venezuela,1,3,0,4,2020
+48,India,1,2,4,7,2020
+49,Hong Kong,1,2,3,6,2020
+50,Philippines,1,2,1,4,2020
+50,Slovakia,1,2,1,4,2020
+52,South Africa,1,2,0,3,2020
+53,Austria,1,1,5,7,2020
+54,Egypt,1,1,4,6,2020
+55,Indonesia,1,1,3,5,2020
+56,Ethiopia,1,1,2,4,2020
+56,Portugal,1,1,2,4,2020
+58,Tunisia,1,1,0,2,2020
+59,Estonia,1,0,1,2,2020
+59,Fiji,1,0,1,2,2020
+59,Latvia,1,0,1,2,2020
+59,Thailand,1,0,1,2,2020
+63,Bermuda,1,0,0,1,2020
+63,Morocco,1,0,0,1,2020
+63,Puerto Rico,1,0,0,1,2020
+66,Colombia,0,4,1,5,2020
+67,Azerbaijan,0,3,4,7,2020
+68,Dominican Republic,0,3,2,5,2020
+69,Armenia,0,2,2,4,2020
+70,Kyrgyzstan,0,2,1,3,2020
+71,Mongolia,0,1,3,4,2020
+72,Argentina,0,1,2,3,2020
+72,San Marino,0,1,2,3,2020
+74,Jordan,0,1,1,2,2020
+74,Malaysia,0,1,1,2,2020
+74,Nigeria,0,1,1,2,2020
+77,Bahrain,0,1,0,1,2020
+77,Lithuania,0,1,0,1,2020
+77,Namibia,0,1,0,1,2020
+77,North Macedonia,0,1,0,1,2020
+77,Saudi Arabia,0,1,0,1,2020
+77,Turkmenistan,0,1,0,1,2020
+83,Kazakhstan,0,0,8,8,2020
+84,Mexico,0,0,4,4,2020
+85,Finland,0,0,2,2,2020
+86,Botswana,0,0,1,1,2020
+86,Burkina Faso,0,0,1,1,2020
+86,Ghana,0,0,1,1,2020
+86,Grenada,0,0,1,1,2020
+86,Ivory Coast,0,0,1,1,2020
+86,Kuwait,0,0,1,1,2020
+86,Moldova,0,0,1,1,2020
+86,Syria,0,0,1,1,2020
+1,United States,40,44,42,126,2024
+2,China,40,27,24,91,2024
+3,Japan,20,12,13,45,2024
+4,Australia,18,19,16,53,2024
+5,France,16,26,22,64,2024
+6,Netherlands,15,7,12,34,2024
+7,Great Britain,14,22,29,65,2024
+8,South Korea,13,9,10,32,2024
+9,Italy,12,13,15,40,2024
+10,Germany,12,13,8,33,2024
+11,New Zealand,10,7,3,20,2024
+12,Canada,9,7,11,27,2024
+13,Uzbekistan,8,2,3,13,2024
+14,Hungary,6,7,6,19,2024
+15,Spain,5,4,9,18,2024
+16,Sweden,4,4,3,11,2024
+17,Kenya,4,2,5,11,2024
+18,Norway,4,1,3,8,2024
+19,Ireland,4,0,3,7,2024
+20,Brazil,3,7,10,20,2024
+21,Iran,3,6,3,12,2024
+22,Ukraine,3,5,4,12,2024
+23,Romania,3,4,2,9,2024
+24,Georgia,3,3,1,7,2024
+25,Belgium,3,1,6,10,2024
+26,Bulgaria,3,1,3,7,2024
+27,Serbia,3,1,1,5,2024
+28,Czech Republic,3,0,2,5,2024
+29,Denmark,2,2,5,9,2024
+30,Azerbaijan,2,2,3,7,2024
+30,Croatia,2,2,3,7,2024
+32,Cuba,2,1,6,9,2024
+33,Bahrain,2,1,1,4,2024
+34,Slovenia,2,1,0,3,2024
+35,Chinese Taipei,2,0,5,7,2024
+36,Austria,2,0,3,5,2024
+37,Hong Kong,2,0,2,4,2024
+37,Philippines,2,0,2,4,2024
+39,Algeria,2,0,1,3,2024
+39,Indonesia,2,0,1,3,2024
+41,Israel,1,5,1,7,2024
+42,Poland,1,4,5,10,2024
+43,Kazakhstan,1,3,3,7,2024
+44,Jamaica,1,3,2,6,2024
+44,South Africa,1,3,2,6,2024
+44,Thailand,1,3,2,6,2024
+47,Ethiopia,1,3,0,4,2024
+48,Switzerland,1,2,5,8,2024
+49,Ecuador,1,2,2,5,2024
+50,Portugal,1,2,1,4,2024
+51,Greece,1,1,6,8,2024
+52,Argentina,1,1,1,3,2024
+52,Egypt,1,1,1,3,2024
+52,Tunisia,1,1,1,3,2024
+55,Botswana,1,1,0,2,2024
+55,Chile,1,1,0,2,2024
+55,Saint Lucia,1,1,0,2,2024
+55,Uganda,1,1,0,2,2024
+59,Dominican Republic,1,0,2,3,2024
+60,Guatemala,1,0,1,2,2024
+60,Morocco,1,0,1,2,2024
+62,Dominica,1,0,0,1,2024
+62,Pakistan,1,0,0,1,2024
+64,Turkey,0,3,5,8,2024
+65,Mexico,0,3,2,5,2024
+66,Armenia,0,3,1,4,2024
+66,Colombia,0,3,1,4,2024
+68,Kyrgyzstan,0,2,4,6,2024
+68,North Korea,0,2,4,6,2024
+70,Lithuania,0,2,2,4,2024
+71,India,0,1,5,6,2024
+72,Moldova,0,1,3,4,2024
+73,Kosovo,0,1,1,2,2024
+74,Cyprus,0,1,0,1,2024
+74,Fiji,0,1,0,1,2024
+74,Jordan,0,1,0,1,2024
+74,Mongolia,0,1,0,1,2024
+74,Panama,0,1,0,1,2024
+79,Tajikistan,0,0,3,3,2024
+80,Albania,0,0,2,2,2024
+80,Grenada,0,0,2,2,2024
+80,Malaysia,0,0,2,2,2024
+80,Puerto Rico,0,0,2,2,2024
+84,Cabo Verde,0,0,1,1,2024
+84,Ivory Coast,0,0,1,1,2024
+84,Peru,0,0,1,1,2024
+84,Qatar,0,0,1,1,2024
+84,Refugee Olympic Team,0,0,1,1,2024
+84,Singapore,0,0,1,1,2024
+84,Slovakia,0,0,1,1,2024
+84,Zambia,0,0,1,1,2024
